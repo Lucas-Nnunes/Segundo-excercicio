@@ -1,0 +1,2 @@
+# Segundo-excercicio
+Reportando Bugs.
